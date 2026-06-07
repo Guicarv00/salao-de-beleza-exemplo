@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Studio",
+  "description": "Landing Page Premium de Alta Conversão para Salão de Beleza de Luxo, apresentando serviços exclusivos e agendamento prático.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
